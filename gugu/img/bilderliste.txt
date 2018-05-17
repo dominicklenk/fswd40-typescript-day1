@@ -1,0 +1,13 @@
+bilderliste.txt
+bruschetta.jpg
+calamari-fritti.jpg
+calzone-pizza.jpg
+caprese-salad.jpg
+carbonara.jpg
+carciofi.jpg
+carpaccio.jpg
+gelato.jpg
+gnocchi.jpg
+linguini.jpeg
+parmesan-cortoletta.jpg
+pizza-margherita.jpg

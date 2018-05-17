@@ -1,6 +1,6 @@
 var productId=0;
 var productName;
-var productImage;
+var productImage='https://placehold.it/150x80?text=IMAGE';
 
 var ps1=`<div class="col-sm-4">
       <div class="panel panel-primary">
@@ -8,8 +8,8 @@ var ps1=`<div class="col-sm-4">
 var ps2=`'>`;
 var ps3=`</div>
         <div class="panel-body">
-          <img src="https://placehold.it/150x80?text=IMAGE"`;
-var ps4=` class="img-responsive" style="width:100%" alt="Image">
+          <img src="`;
+var ps4=`" class="img-responsive" alt="Image">
         </div>
         <div class="panel-footer">&#9734;&#9734;&#9734;&#9734;&#9734;</div>
       </div>
