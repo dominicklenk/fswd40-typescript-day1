@@ -1,0 +1,75 @@
+
+    /* Remove the navbar's default rounded borders and increase the bottom margin */ 
+    .navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+    }
+    
+    /* Remove the jumbotron's default bottom margin */ 
+     .jumbotron {
+      margin-bottom: 0;
+    }
+
+    .panel-primary {
+      background-color: red;
+    }
+    
+    #h1 {
+      background-color: green;
+    }
+
+    #h2 {
+      background-color: green;
+    }
+
+    #h3 {
+      background-color: green;
+    }
+
+    #h4 {
+      background-color: green;
+    } 
+
+    #h5 {
+      background-color: green;
+    }
+
+    #h6 {
+      background-color: green;
+    }
+
+    #h7 {
+      background-color: green;
+    }
+
+    #h8 {
+      background-color: green;
+    }
+    
+    #h9 {
+      background-color: green;
+    }
+
+    #h10 {
+      background-color: green;
+    }
+
+    #h11 {
+      background-color: green;
+    }
+
+    #h12 {
+      background-color: green;
+    }
+
+    .jumbotron {
+      background-image: url("https://www.worldatlas.com/r/w728-h425-c728x425/upload/20/07/2a/shutterstock-152854481.jpg");
+    }
+
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+  
